@@ -1,10 +1,11 @@
-# Self-Driving Car Engineer Nanodegree
-# Deep Learning
-## Project: Build a Traffic Sign Recognition Program
 
-### Overview
+# Neural Network for Traffic Sign Classification
 
-In this project, you will use what you've learned about deep neural networks and convolutional neural networks to classify traffic signs. You will train a model so it can decode traffic signs from natural images by using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, you will then test your model program on new images of traffic signs you find on the web, or, if you're feeling adventurous pictures of traffic signs you find locally!
+## Overview
+
+In this project I built a deep convolutional neural networks to classify traffic signs. The model is built so it can decode traffic signs from natural images. The used data set is the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). I then tested the trained model on new images of traffic signs that I found in Vienna, Austria.
+Details of all individual steps are provided directly in the notebook `Traffic_Signs_Recognition.ipynb`
+
 
 ### Dependencies
 
@@ -20,7 +21,7 @@ Run this command at the terminal prompt to install [OpenCV](http://opencv.org/).
 
 - `conda install -c https://conda.anaconda.org/menpo opencv3`
 
-### Dataset
+### Getting Started
 
 1. Download the dataset. You can download the pickled dataset in which we've already resized the images to 32x32 [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/October/580d53ce_traffic-sign-data/traffic-sign-data.zip).
  
@@ -30,5 +31,5 @@ git clone https://github.com/udacity/traffic-signs
 cd traffic-signs
 jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
-3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
+3. Instructions detailing the code are provided in the `Traffic_Signs_Recognition.ipynb` notebook.
 
