@@ -6,7 +6,7 @@ In this Udacity project for the Self-Driving Car Nanodegree I built a deep convo
 Details of all individual steps are provided directly in the notebook `Traffic_Signs_Recognition.ipynb`
 
 [//]: # (Image References)
-[image1]: ./images/traffic_signs.png
+[image1]: ./images/hero_traffic_signs.png
 
 ![TrafficSigns][image1]
 
