@@ -1,9 +1,14 @@
+[//]: # (Image References)
+[image1]: ./images/traffic_signs.png
 
-# Neural Network for Traffic Sign Classification
+![TrafficSigns][image1]
+
+
+# Convolutional Neural Network for Traffic Sign Classification
 
 ## Overview
 
-In this project I built a deep convolutional neural networks to classify traffic signs. The model is built so it can decode traffic signs from natural images. The used data set is the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). I then tested the trained model on new images of traffic signs that I found in Vienna, Austria.
+In this Udacity project for the Self-Driving Car Nanodegree I built a deep convolutional neural networks to classify traffic signs. The model is built so it can decode traffic signs from natural images. The used data set is the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). I then tested the trained model on new images of traffic signs that I found in Vienna, Austria.
 Details of all individual steps are provided directly in the notebook `Traffic_Signs_Recognition.ipynb`
 
 
