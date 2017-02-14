@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this Udacity project for the Self-Driving Car Nanodegree I built a deep convolutional neural networks to classify traffic signs. The model is built so it can decode traffic signs from natural images. The used data set is the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). I then tested the trained model on new images of traffic signs that I found in Vienna, Austria.
+In this Udacity project for the Self-Driving Car Nanodegree I built a deep convolutional neural networks to classify traffic signs. The model is built so it can decode traffic signs from natural images. The used data set is the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) and the obtained test set accuracy is 97%.  I then tested the trained model on new images of traffic signs that I found in Vienna, Austria.
 Details of all individual steps are provided directly in the notebook `Traffic_Signs_Recognition.ipynb`
 
 [//]: # (Image References)
@@ -35,5 +35,5 @@ git clone https://github.com/udacity/traffic-signs
 cd traffic-signs
 jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
-* Instructions detailing the code are provided in the `Traffic_Signs_Recognition.ipynb` notebook.
+* Instructions detailing the code are provided in the `Traffic_Signs_Recognition.ipynb` notebook as well or equivalently in report.html.
 
